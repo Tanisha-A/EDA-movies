@@ -1,4 +1,4 @@
-# EDA-movies
+# Project-EDA-movies
 To clean the data and perform EDA on it and answer any 4 of the following questions on the dataset.
 
 You can clean (fix, replace, drop, etc) values with their respective choice. There is no restriction on it.
