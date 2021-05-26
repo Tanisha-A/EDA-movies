@@ -8,3 +8,16 @@ You can clean (fix, replace, drop, etc) values with their respective choice. The
 3) What is the most common Genre for Vin Diesel & Emma Watson movies?
 4) Which are the movies with most and least earned revenue?
 5) What is the average runtime of movies in the year 2006?
+
+# Project Overview
+In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+
+# Why this Project?
+In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
+
+You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
+
+# What do you need to install?
+You will need an installation of Python, plus the following libraries:
+1) pandas
+2) NumPy
